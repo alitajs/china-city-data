@@ -1,0 +1,21 @@
+{
+  "name": "@alitajs/china_city_data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alitajs/china-city-data"
+  },
+  "bugs": {
+    "url": "https://github.com/alitajs/china-city-data/issues"
+  },
+  "homepage": "https://github.com/alitajs/china-city-data/blob/main/README.md",
+  "description": ""
+}
