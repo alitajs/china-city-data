@@ -1,21 +1,31 @@
 {
-  "name": "@alitajs/china_city_data",
-  "version": "1.0.0",
+  "name": "@alitajs/china-city-data",
+  "version": "1.0.2",
   "main": "index.js",
   "files": [
     "index.js"
   ],
-  "scripts": {},
-  "keywords": [],
-  "author": "",
+  "scripts": {
+    "publish": "npm publish --access public"
+  },
+  "keywords": [
+    "alita",
+    "city-data"
+  ],
+  "authors": [
+    "xiaohuoni <448627663@qq.com> (https://github.com/xiaohuoni)",
+    "hang1017 <437132124@qq.com> (https://github.com/hang1017)"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alitajs/china-city-data"
+    "url": "git+https://github.com/alitajs/china-city-data.git"
   },
   "bugs": {
     "url": "https://github.com/alitajs/china-city-data/issues"
   },
   "homepage": "https://github.com/alitajs/china-city-data/blob/main/README.md",
-  "description": ""
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {}
 }
